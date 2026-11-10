@@ -1,0 +1,79 @@
+<resources>
+    <!-- Splash Screen -->
+    <string name="splash_title">TRINETRA</string>
+    <string name="splash_subtitle">ಅಡಿತವಾದ ಸೈবার್ಟಿಕೆ ಮಕ್ತ್ರೋನ್</string>
+    <string name="splash_description"> avanzita risksha anusandhane mattu jana pramanan</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">powrabeku agguru</string>
+    <string name="login_subtitle">apana TRINETRA account ma sign in huttidde</string>
+    <string name="register_title">account create huttidde</string>
+    <string name="register_subtitle">TRINETRA samajama sparasidre</string>
+    <string name="already_have_account">age already account hunni</string>
+    <string name="new_to_trinetra">TRINETRA ma ninnannu</string>
+
+    <!-- Form Fields -->
+    <string name="username">upayogakarta nama</string>
+    <string name="email">email address</string>
+    <string name="password">password</string>
+    <string name="confirm_password">password verify cheyuthidde</string>
+    <string name="full_name">purna nama</string>
+
+    <!-- Buttons -->
+    <string name="login">login huttidde</string>
+    <string name="register">register huttidde</string>
+    <string name="logout">logout huttidde</string>
+    <string name="submit">submit huttidde</string>
+    <string name="cancel">cancel huttidde</string>
+
+    <!-- Error Messages -->
+    <string name="error_required">this field avvalu necessary</string>
+    <string name="error_invalid_email">a valid email address type idhe enter idhuttidde</string>
+    <string name="error_password_too_short">password at least 8 aksharavagi</string>
+    <string name="error_password_mismatch">password maathram not match idhe</string>
+    <string name="error_authentication_failed">invalid credentials annitte; barutidde</string>
+    <string name="error_registration_failed">registration failed annitte; barutidde</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">welcome back!</string>
+    <string name="registration_success">account successfully created!</string>
+    <string name="logout_success">you have been logged out</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_dashboard">dashboard</string>
+    <string name="investigation">investigation</string>
+    <string name="history">history</string>
+    <string name="community">community</string>
+    <string name="notifications">notifications</string>
+    <string name="profile">profile</string>
+    <string name="settings">settings</string>
+    <string name="language">language</string>
+
+    <!-- Investigation -->
+    <string name="start_investigation">investigation start cheyuthidde</string>
+    <string name="investigation_in_progress">investigation in progress...</string>
+    <string name="investigation_complete">investigation complete</string>
+    <string name="no_results">no results found</string>
+
+    <!-- Profile -->
+    <string name="change_password">password change cheyuthidde</string>
+    <string name="delete_account">account delete cheyuthidde</string>
+    <string name="sign_out">sign out huttidde</string>
+
+    <!-- Settings -->
+    <string name="theme_settings">settings</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="light_mode">light mode</string>
+    <string name="select_language">language select cheyuthidde</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+
+    <!-- Loading and Error States -->
+    <string name="loading">loading...</string>
+    <string name="error_occurred">error occurred</string>
+    <string name="retry">retry cheyuthidde</string>
+    <string name="try_again">again try cheyuthidde</string>
+
+    <!-- Floating Ball -->
+    <string name="floating_ball_description">TRINETRA security assistant</string>
+</resources>

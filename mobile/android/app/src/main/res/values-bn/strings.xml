@@ -1,0 +1,79 @@
+<resources>
+    <!-- Splash Screen -->
+    <string name="splash_title">TRINETRA</string>
+    <string name="splash_subtitle">Bangla cybersecurity platform</string>
+    <string name="splash_description">Advanced threat investigation and identity verification</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">Powrabare swapno</string>
+    <string name="login_subtitle">TRINETRA konta mein sign in korte</string>
+    <string name="register_title">Account banay</string>
+    <string name="register_subtitle">TRINETRA samajay khas korar jonno</string>
+    <string name="already_have_account">Ake akke accountache?</string>
+    <string name="new_to_trinetra">TRINETRA niye naya</string>
+
+    <!-- Form Fields -->
+    <string name="username">Usernamer dokan</string>
+    <string name="email">Email addres</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Password verify</string>
+    <string name="full_name">Full name</string>
+
+    <!-- Buttons -->
+    <string name="login">Login korte</string>
+    <string name="register">Register korte</string>
+    <string name="logout">Boro hole</string>
+    <string name="submit">Submit korte</string>
+    <string name="cancel">Rok</string>
+
+    <!-- Error Messages -->
+    <string name="error_required">Field required ache</string>
+    <string name="error_invalid_email">Valid email address dite</string>
+    <string name="error_password_too_short">Password comanche 8 akshar</string>
+    <string name="error_password_mismatch">Password match nai</string>
+    <string name="error_authentication_failed">Invalid credential; barabe na</string>
+    <string name="error_registration_failed">Registration failed; barabe na</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">Welcome back!</string>
+    <string name="registration_success">Account created successfully!</string>
+    <string name="logout_success">You have been logged out</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_dashboard">Dashboard</string>
+    <string name="investigation">Investigation</string>
+    <string name="history">History</string>
+    <string name="community">Community</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+
+    <!-- Investigation -->
+    <string name="start_investigation">Start investigation</string>
+    <string name="investigation_in_progress">Investigation in progress...</string>
+    <string name="investigation_complete">Investigation complete</string>
+    <string name="no_results">No results found</string>
+
+    <!-- Profile -->
+    <string name="change_password">Change password</string>
+    <string name="delete_account">Delete account</string>
+    <string name="sign_out">Sign out</string>
+
+    <!-- Settings -->
+    <string name="theme_settings">Theme</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="light_mode">Light mode</string>
+    <string name="select_language">Select language</string>
+    <string name="english">English</string>
+    <string name="bengali">Bangla</string>
+
+    <!-- Loading and Error States -->
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="try_again">Try again</string>
+
+    <!-- Floating Ball -->
+    <string name="floating_ball_description">TRINETRA Security Assistant</string>
+</resources>

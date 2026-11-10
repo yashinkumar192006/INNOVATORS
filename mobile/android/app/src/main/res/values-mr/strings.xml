@@ -1,0 +1,79 @@
+<resources>
+    <!-- Splash Screen -->
+    <string name="splash_title">TRINETRA</string>
+    <string name="splash_subtitle">Marathi cybersecurity platform</string>
+    <string name="splash_description">Advanced threat investigation and identity verification</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">पावल्यामुळे फिरवूया</string>
+    <string name="login_subtitle">TRINETRA खातेत Sign in करा</string>
+    <string name="register_title">खाते तयार करा</string>
+    <string name="register_subtitle">TRINETRA समुदायात जोडा</string>
+    <string name="already_have_account">पुढरीत या खाते?</string>
+    <string name="new_to_trinetra">TRINETRA madhe नंतरात</string>
+
+    <!-- Form Fields -->
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="email">आईडी</string>
+    <string name="password">पासवर्ड</string>
+    <string name="confirm_password">पासवर्ड उभा</string>
+    <string name="full_name">पूर्ण नाव</string>
+
+    <!-- Buttons -->
+    <string name="login">लॉगिन</string>
+    <string name="register">दाखल</string>
+    <string name="logout">बंद करा</string>
+    <string name="submit">जतन</string>
+    <string name="cancel">रद्द करा</string>
+
+    <!-- Error Messages -->
+    <string name="error_required">आवश्यक क्षेत्र</string>
+    <string name="error_invalid_email">वाlid ईमेल प्रविष्ट करा</string>
+    <string name="error_password_too_short">पासवर्ड 8 अक्षरांपैची लावणार</string>
+    <string name="error_password_mismatch">पासवर्ड मेल नाही</string>
+    <string name="error_authentication_failed">अमान्य क्रीडा परिक्रमी. पुन्हा प्रयत्न करा</string>
+    <string name="error_registration_failed">दाखल विफल. पुन्हा प्रयत्न करा</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">वाप्रात आला!</string>
+    <string name="registration_success">दा खाते तयार झाली!</string>
+    <string name="logout_success">तुमचा बंद झालेला आहे</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_dashboard">डॉटरबोर्ड</string>
+    <string name="investigation">तहकीकात</string>
+    <string name="history">इतिहास</string>
+    <string name="community">समाज</string>
+    <string name="notifications">संदेषे</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="settings">स्थापना</string>
+    <string name="language">भाषा</string>
+
+    <!-- Investigation -->
+    <string name="start_investigation">तहकीकात सुरु करा</string>
+    <string name="investigation_in_progress">तहकीकात सुरु आहे...</string>
+    <string name="investigation_complete">तहकीकात पूर्ण झाली</string>
+    <string name="no_results">कोई परिणाम नाही</string>
+
+    <!-- Profile -->
+    <string name="change_password">पासवर्ड बदलवा</string>
+    <string name="delete_account">खाते हटवा</string>
+    <string name="sign_out">बंद करा</string>
+
+    <!-- Settings -->
+    <string name="theme_settings">स्थापना</string>
+    <string name="dark_mode">काळी मोड</string>
+    <string name="light_mode">प्रकाश मोड</string>
+    <string name="select_language">भाषा निवडा</string>
+    <string name="english">English</string>
+    <string name="marathi">मराठी</string>
+
+    <!-- Loading and Error States -->
+    <string name="loading">तैयार होऊया...</string>
+    <string name="error_occurred">त्रुटी झाली</string>
+    <string name="retry">फिरूया करा</string>
+    <string name="try_again">फिरूया करा</string>
+
+    <!-- Floating Ball -->
+    <string name="floating_ball_description">TRINETRA सुरक्षा सहायक</string>
+</resources>

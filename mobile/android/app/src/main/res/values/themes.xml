@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TRINETRA Dark Security Theme -->
+    <style name="Theme.TRINETRA.Dark" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary color: Deep indigo/security blue -->
+        <item name="colorPrimary">#2C3E50</item>
+        <item name="colorPrimaryContainer">#34495E</item>
+        <item name="colorOnPrimary">#ECF0F1</item>
+        <!-- Secondary color: Amber/Warning -->
+        <item name="colorSecondary">#E67E22</item>
+        <item name="colorSecondaryContainer">#F39C12</item>
+        <item name="onColorSecondary">#2C3E50</item>
+        <!-- Background -->
+        <item name="colorBackground">#1A1A2E</item>
+        <item name="colorSurface">#16213E</item>
+        <item name="colorOnBackground">#ECF0F1</item>
+        <item name="colorOnSurface">#ECF0F1</item>
+        <!-- Error -->
+        <item name="colorError">#E74C3C</item>
+        <item name="colorErrorContainer">#C0392B</item>
+        <item name="onColorError">#ECF0F1</item>
+        <item name="onErrorContainer">#ECF0F1</item>
+    </style>
+
+    <!-- Splash Screen Theme (no status bar) -->
+    <style name="Theme.TRINETRA.Splash" parent="Theme.TRINETRA.Dark">
+        <item name="android windowFullscreen">true</item>
+        <item name="android windowBackgroundMode">@style/Theme.TRINETRA.Splash.Background</item>
+    </style>
+
+    <style name="Theme.TRINETRA.Splash.Background" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android background">#1A1A2E</item>
+    </style>
+
+    <!-- Text Styles for Security App -->
+    <style name="TextAppearance.TRINETRA.Header1" parent="TextAppearance.Material3.Headline6">
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="fontSize">32sp</item>
+        <item name="fontWeight">400</item>
+        <item name="color">#ECF0F1</item>
+    </style>
+
+    <style name="TextAppearance.TRINETRA.Body1" parent="TextAppearance.Material3.Body1">
+        <item name="fontFamily">sans-serif</item>
+        <item name="fontSize">16sp</item>
+        <item name="fontWeight">400</item>
+        <item name="color">#ECF0F1</item>
+    </style>
+
+    <style name="TextAppearance.TRINETRA.Caption" parent="TextAppearance.Material3.Caption">
+        <item name="fontFamily">sans-serif</item>
+        <item name="fontSize">12sp</item>
+        <item name="fontWeight">400</item>
+        <item name="color">#7F8C8D</item>
+    </style>
+
+    <!-- Button Styles -->
+    <style name="Widget.TRINETRA.Button.Elevated" parent="Widget.Material3.Button.Elevated">
+        <item name="backgroundColor">#E67E22</item>
+        <item name="colorOnPrimary">#2C3E50</item>
+    </style>
+
+    <style name="Widget.TRINETRA.Button.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="backgroundColor">#ECF0F1</item>
+        <item name="colorOnPrimary">#2C3E50</item>
+        <item name="android textColor">#2C3E50</item>
+    </style>
+
+    <!-- Card Style -->
+    <style name="Widget.TRINETRA.Card.Security" parent="Widget.Material3.Card">
+        <item name="cardBackgroundColor">#16213E</item>
+        <item name="strokeColor">#34495E</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+    <!-- Divider Style -->
+    <style name="Widget.TRINETRA.Divider" parent="Widget.Material3.Divider">
+        <item name="android color">#34495E</item>
+    </style>
+
+    <!-- Progress Indicator -->
+    <style name="Widget.TRINETRA.CircularProgressIndicator" parent="Widget.AppCompat.CircularProgressIndicator">
+        <item name="colorProgress">#E67E22</item>
+    </style>
+</resources>

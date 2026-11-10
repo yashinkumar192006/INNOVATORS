@@ -1,0 +1,79 @@
+<resources>
+    <!-- Splash Screen -->
+    <string name="splash_title">TRINETRA</string>
+    <string name="splash_subtitle">சाइ버 சecurity மான்டரaken</string>
+    <string name="splash_description">ขั้นสูत อาชญากร การสอบสวนและตัวตนการยืนยัน</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">ยินดีต้อนรับกลับมา</string>
+    <string name="login_subtitle">TRINETRA บัญชีของคุณลงชื่อเข้าใช้</string>
+    <string name="register_title">สร้างบัญชี</string>
+    <string name="register_subtitle">TRINETRA ชุมชนเข้าร่วม</string>
+    <string name="already_have_account">มีบัญชีอยู่แล้ว</string>
+    <string name="new_to_trinetra">TRINETRA ใหม่</string>
+
+    <!-- Form Fields -->
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="email">อีเมล</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="confirm_password">ยืนยันรหัสผ่าน</string>
+    <string name="full_name">ชื่อเต็ม</string>
+
+    <!-- Buttons -->
+    <string name="login">ล็อกอิน</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="submit">ส่ง</string>
+    <string name="cancel">ยกเลิก</string>
+
+    <!-- Error Messages -->
+    <string name="error_required">จำเป็นต้องกรอก</string>
+    <string name="error_invalid_email">กรุณากรอกอีเมลที่ถูกต้อง</string>
+    <string name="error_password_too_short">รหัสผ่านอย่างน้อย 8 ตัวอักษร</string>
+    <string name="error_password_mismatch">รหัสผ่านไม่ตรงกัน</string>
+    <string name="error_authentication_failed">credentials ไม่ถูกต้อง ลองใหม่อีกครั้ง</string>
+    <string name="error_registration_failed">ลงทะเบียนล้มเหลว ลองใหม่อีกครั้ง</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">ยินดีต้อนรับ!</string>
+    <string name="registration_success">บัญชีสร้างสำเร็จ!</string>
+    <string name="logout_success">ออกจากระบบแล้ว</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_dashboard">ดาชบอร์ด</string>
+    <string name="investigation">การสอบสวน</string>
+    <string name="history">ประวัติ</string>
+    <string name="community">ชุมชน</string>
+    <string name="notifications">การแจ้งเตือน</string>
+    <string name="profile">โปรไฟล์</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="language">ภาษา</string>
+
+    <!-- Investigation -->
+    <string name="start_investigation">เริ่มการสอบสวน</string>
+    <string name="investigation_in_progress">กำลังดำเนินการสอบสวน...</string>
+    <string name="investigation_complete">สอบสวนเสร็จสิ้น</string>
+    <string name="no_results">ไม่พบผลลัพธ์</string>
+
+    <!-- Profile -->
+    <string name="change_password">เปลี่ยนรหัสผ่าน</string>
+    <string name="delete_account">ลบบัญชี</string>
+    <string name="sign_out">ออกจากระบบ</string>
+
+    <!-- Settings -->
+    <string name="theme_settings">การตั้งค่า</string>
+    <string name="dark_mode">โหมดดำ</string>
+    <string name="light_mode">โหมดแสง</string>
+    <string name="select_language">เลือกภาษา</string>
+    <string name="english">English</string>
+    <string name="tamil">தமிழ்</string>
+
+    <!-- Loading and Error States -->
+    <string name="loading">กำลังโหลด...</string>
+    <string name="error_occurred">เกิดข้อผิดพลาด</string>
+    <string name="retry">ลองอีกครั้ง</string>
+    <string name="try_again">ลองอีกครั้ง</string>
+
+    <!-- Floating Ball -->
+    <string name="floating_ball_description">TRINETRA assistant ประจำตัว</string>
+</resources>
